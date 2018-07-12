@@ -1,6 +1,8 @@
-# crystabit
+# crystabit-front
 
-CaaS (component-as-a-service) CPU emulator, written in functional-style Crystal using TDD.
+TS-React frontend for Crystabit.
+
+Crystabit is a CaaS (component-as-a-service) CPU emulator, written in functional-style Crystal using TDD.
 
 Definitely a good learning experience.
 
