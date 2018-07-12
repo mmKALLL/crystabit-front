@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "moduleResolution": "node",
+        "target": "es5",
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "outDir": "./dist/",
+        "allowJs": false,
+        "declaration": true,
+        "jsx": "react"
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "target": "es5",
+        "strict": true,
+        "strictNullChecks": true,
+        "allowSyntheticDefaultImports": true,
+        "removeComments": false,
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
